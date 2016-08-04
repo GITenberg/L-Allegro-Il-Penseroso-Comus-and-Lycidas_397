@@ -1,0 +1,27 @@
+_repo: L-Allegro-Il-Penseroso-Comus-and-Lycidas_397
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Milton, John
+    birthdate: 1608
+    deathdate: 1674
+    gutenberg_agent_id: '17'
+    url: http://www.gutenberg.org/2009/agents/17
+    wikipedia: http://en.wikipedia.org/wiki/John_Milton
+description: L'Allegro. II penseroso. Comus. Lycidas.
+gutenberg_issued: '1996-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '397'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Didactic poetry'
+- !lcc 'PR'
+- !lcsh 'Melancholy -- Poetry'
+- !lcsh 'Cheerfulness -- Poetry'
+- GITenberg
+title: L'Allegro, Il Penseroso, Comus, and Lycidas
+url: http://www.gutenberg.org/ebooks/397
